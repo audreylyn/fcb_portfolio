@@ -17,5 +17,9 @@ This project is a personal web development portfolio created as part of my activ
 - **Font Awesome**: To display icons for social media links.
 - **Google Fonts**: For custom typography styles.
 
+### Certification
+I received a certification for completing the workshop, which can be seen below:
+![Certification](zuitt_certification.jpg)
+
 ### Acknowledgments
 I would like to extend my gratitude to **Zuitt** for organizing the workshop, and for providing me with the tools and knowledge to grow as a web developer.
